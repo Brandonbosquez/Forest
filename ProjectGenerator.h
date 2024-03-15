@@ -71,9 +71,8 @@ void clearLogFile(const std::string& filename);
 TreeComposition createRandomComposition();
 int generateRandomSize();
 int generateSequentialID();
-//int generateRandomID();
+
 void generateSampleProjects(const std::string& filename, int numProjects);
-//Project fetchProject();
 
 
 
