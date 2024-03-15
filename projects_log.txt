@@ -1,0 +1,294 @@
+Project ID: 1
+Size: 110 hectares
+Tree Composition: Pine: 6%, Birch: 11%, Spruce: 83%
+Completion Time: 76 days
+Status: COMPLETED
+
+Project ID: 2
+Size: 123 hectares
+Tree Composition: Pine: 48%, Birch: 41%, Spruce: 11%
+Completion Time: 229 days
+Status: COMPLETED
+
+Project ID: 3
+Size: 104 hectares
+Tree Composition: Pine: 41%, Birch: 34%, Spruce: 25%
+Completion Time: 166 days
+Status: COMPLETED
+
+Project ID: 4
+Size: 132 hectares
+Tree Composition: Pine: 50%, Birch: 40%, Spruce: 10%
+Completion Time: 243 days
+Status: COMPLETED
+
+Project ID: 5
+Size: 135 hectares
+Tree Composition: Pine: 33%, Birch: 36%, Spruce: 31%
+Completion Time: 217 days
+Status: COMPLETED
+
+Project ID: 6
+Size: 115 hectares
+Tree Composition: Pine: 39%, Birch: 2%, Spruce: 59%
+Completion Time: 72 days
+Status: COMPLETED
+
+Project ID: 7
+Size: 120 hectares
+Tree Composition: Pine: 41%, Birch: 35%, Spruce: 24%
+Completion Time: 198 days
+Status: COMPLETED
+
+Project ID: 8
+Size: 29 hectares
+Tree Composition: Pine: 39%, Birch: 13%, Spruce: 48%
+Completion Time: 25 days
+Status: COMPLETED
+
+Project ID: 9
+Size: 71 hectares
+Tree Composition: Pine: 15%, Birch: 85%, Spruce: 0%
+Completion Time: 210 days
+Status: COMPLETED
+
+Project ID: 10
+Size: 105 hectares
+Tree Composition: Pine: 50%, Birch: 14%, Spruce: 36%
+Completion Time: 110 days
+Status: COMPLETED
+
+Project ID: 11
+Size: 135 hectares
+Tree Composition: Pine: 31%, Birch: 36%, Spruce: 33%
+Completion Time: 215 days
+Status: COMPLETED
+
+Project ID: 12
+Size: 51 hectares
+Tree Composition: Pine: 18%, Birch: 24%, Spruce: 58%
+Completion Time: 58 days
+Status: COMPLETED
+
+Project ID: 13
+Size: 134 hectares
+Tree Composition: Pine: 37%, Birch: 56%, Spruce: 7%
+Completion Time: 302 days
+Status: COMPLETED
+
+Project ID: 14
+Size: 144 hectares
+Tree Composition: Pine: 43%, Birch: 39%, Spruce: 18%
+Completion Time: 255 days
+Status: COMPLETED
+
+Project ID: 15
+Size: 65 hectares
+Tree Composition: Pine: 30%, Birch: 34%, Spruce: 36%
+Completion Time: 99 days
+Status: COMPLETED
+
+Project ID: 16
+Size: 121 hectares
+Tree Composition: Pine: 44%, Birch: 47%, Spruce: 9%
+Completion Time: 242 days
+Status: COMPLETED
+
+Project ID: 17
+Size: 101 hectares
+Tree Composition: Pine: 48%, Birch: 33%, Spruce: 19%
+Completion Time: 164 days
+Status: COMPLETED
+
+Project ID: 18
+Size: 123 hectares
+Tree Composition: Pine: 30%, Birch: 50%, Spruce: 20%
+Completion Time: 247 days
+Status: COMPLETED
+
+Project ID: 19
+Size: 66 hectares
+Tree Composition: Pine: 40%, Birch: 39%, Spruce: 21%
+Completion Time: 113 days
+Status: COMPLETED
+
+Project ID: 20
+Size: 32 hectares
+Tree Composition: Pine: 24%, Birch: 48%, Spruce: 28%
+Completion Time: 59 days
+Status: COMPLETED
+
+Project ID: 21
+Size: 54 hectares
+Tree Composition: Pine: 29%, Birch: 33%, Spruce: 38%
+Completion Time: 77 days
+Status: COMPLETED
+
+Project ID: 22
+Size: 146 hectares
+Tree Composition: Pine: 34%, Birch: 48%, Spruce: 18%
+Completion Time: 290 days
+Status: COMPLETED
+
+Project ID: 23
+Size: 119 hectares
+Tree Composition: Pine: 10%, Birch: 46%, Spruce: 44%
+Completion Time: 208 days
+Status: COMPLETED
+
+Project ID: 24
+Size: 130 hectares
+Tree Composition: Pine: 6%, Birch: 38%, Spruce: 56%
+Completion Time: 194 days
+Status: COMPLETED
+
+Project ID: 25
+Size: 41 hectares
+Tree Composition: Pine: 12%, Birch: 79%, Spruce: 9%
+Completion Time: 111 days
+Status: COMPLETED
+
+Project ID: 26
+Size: 83 hectares
+Tree Composition: Pine: 4%, Birch: 11%, Spruce: 85%
+Completion Time: 56 days
+Status: COMPLETED
+
+Project ID: 27
+Size: 60 hectares
+Tree Composition: Pine: 27%, Birch: 41%, Spruce: 32%
+Completion Time: 102 days
+Status: COMPLETED
+
+Project ID: 28
+Size: 36 hectares
+Tree Composition: Pine: 15%, Birch: 36%, Spruce: 49%
+Completion Time: 50 days
+Status: COMPLETED
+
+Project ID: 29
+Size: 59 hectares
+Tree Composition: Pine: 4%, Birch: 53%, Spruce: 43%
+Completion Time: 113 days
+Status: COMPLETED
+
+Project ID: 30
+Size: 28 hectares
+Tree Composition: Pine: 50%, Birch: 37%, Spruce: 13%
+Completion Time: 48 days
+Status: COMPLETED
+
+Project ID: 31
+Size: 144 hectares
+Tree Composition: Pine: 49%, Birch: 2%, Spruce: 49%
+Completion Time: 99 days
+Status: COMPLETED
+
+Project ID: 32
+Size: 30 hectares
+Tree Composition: Pine: 8%, Birch: 19%, Spruce: 73%
+Completion Time: 25 days
+Status: COMPLETED
+
+Project ID: 33
+Size: 45 hectares
+Tree Composition: Pine: 6%, Birch: 68%, Spruce: 26%
+Completion Time: 105 days
+Status: COMPLETED
+
+Project ID: 34
+Size: 83 hectares
+Tree Composition: Pine: 15%, Birch: 85%, Spruce: 0%
+Completion Time: 245 days
+Status: COMPLETED
+
+Project ID: 35
+Size: 106 hectares
+Tree Composition: Pine: 46%, Birch: 26%, Spruce: 28%
+Completion Time: 147 days
+Status: PENDING
+
+Project ID: 36
+Size: 129 hectares
+Tree Composition: Pine: 11%, Birch: 41%, Spruce: 48%
+Completion Time: 207 days
+Status: PENDING
+
+Project ID: 37
+Size: 24 hectares
+Tree Composition: Pine: 2%, Birch: 92%, Spruce: 6%
+Completion Time: 73 days
+Status: PENDING
+
+Project ID: 38
+Size: 34 hectares
+Tree Composition: Pine: 18%, Birch: 19%, Spruce: 63%
+Completion Time: 33 days
+Status: PENDING
+
+Project ID: 39
+Size: 138 hectares
+Tree Composition: Pine: 32%, Birch: 46%, Spruce: 22%
+Completion Time: 264 days
+Status: PENDING
+
+Project ID: 40
+Size: 98 hectares
+Tree Composition: Pine: 30%, Birch: 48%, Spruce: 22%
+Completion Time: 192 days
+Status: PENDING
+
+Project ID: 41
+Size: 60 hectares
+Tree Composition: Pine: 18%, Birch: 12%, Spruce: 70%
+Completion Time: 47 days
+Status: PENDING
+
+Project ID: 42
+Size: 117 hectares
+Tree Composition: Pine: 8%, Birch: 74%, Spruce: 18%
+Completion Time: 302 days
+Status: PENDING
+
+Project ID: 43
+Size: 89 hectares
+Tree Composition: Pine: 36%, Birch: 63%, Spruce: 1%
+Completion Time: 218 days
+Status: PENDING
+
+Project ID: 44
+Size: 38 hectares
+Tree Composition: Pine: 28%, Birch: 61%, Spruce: 11%
+Completion Time: 87 days
+Status: PENDING
+
+Project ID: 45
+Size: 64 hectares
+Tree Composition: Pine: 34%, Birch: 47%, Spruce: 19%
+Completion Time: 125 days
+Status: PENDING
+
+Project ID: 46
+Size: 99 hectares
+Tree Composition: Pine: 34%, Birch: 58%, Spruce: 8%
+Completion Time: 225 days
+Status: PENDING
+
+Project ID: 47
+Size: 108 hectares
+Tree Composition: Pine: 33%, Birch: 4%, Spruce: 63%
+Completion Time: 70 days
+Status: PENDING
+
+Project ID: 48
+Size: 105 hectares
+Tree Composition: Pine: 13%, Birch: 55%, Spruce: 32%
+Completion Time: 214 days
+Status: PENDING
+
+Project ID: 49
+Size: 92 hectares
+Tree Composition: Pine: 42%, Birch: 27%, Spruce: 31%
+Completion Time: 127 days
+Status: PENDING
+
